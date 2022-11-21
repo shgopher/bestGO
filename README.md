@@ -2,7 +2,7 @@
 
 《go语言从入门到实践》 系列教程的存储位置
 
-![](./bestGO.svg)
+![](./1.png)
 
 - b站：https://space.bilibili.com/478621088/channel/seriesdetail?sid=2708643&ctype=0
 - 微信公众号：科科人神 （关注公众号，每次更新都能最早发现）
