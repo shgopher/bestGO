@@ -10,8 +10,8 @@
 - 抖音：https://www.douyin.com/collection/7156553111618881539/1?previous_page=personal_homepage
 
 ## 本教程使用的参考资料有
+- https://github.com/shgopher/GOFamily
 - https://gobyexample.com/
-- https://github.com/shgopher/GOFamily/
 - https://time.geekbang.org/column/intro/100079601?tab=catalog
 - https://time.geekbang.org/column/intro/100090601
 - https://coding.imooc.com/class/chapter/180.html#Anchor
