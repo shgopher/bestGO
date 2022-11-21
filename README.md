@@ -7,9 +7,10 @@
 发布平台：
 
 - 微信公众号：科科人神 （关注公众号，每次更新都能最早发现）
-- b站：https://space.bilibili.com/478621088/channel/seriesdetail?sid=2708643&ctype=0
-- 微博：https://weibo.com/u/1949695097?tabtype=newVideo
-- 抖音：https://www.douyin.com/collection/7156553111618881539/1?previous_page=personal_homepage
+![](./wechat.png)
+- b站：https://space.bilibili.com/478621088
+- 微博：https://weibo.com/u/1949695097
+- 抖音：( 搜索 科科人神) https://www.douyin.com/collection/7156553111618881539/1?previous_page=personal_homepage
 
 ## 本教程使用的参考资料有
 - https://github.com/shgopher/GOFamily
